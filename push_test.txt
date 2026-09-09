@@ -1,1 +1,2 @@
 Ficheiro para testar o git push
+modificando o ficheiro para testar git fetch e pull no repositorio main fisico
